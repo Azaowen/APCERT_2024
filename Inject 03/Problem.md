@@ -49,7 +49,7 @@
     - ipconfig 
     - ifconfig 
     - ls
- 6. Sau khi được thực thi, mã độc đã tải về một tệp mã độc khác, hãy trả lời url được sử dụng để tải về.?
- 7. Mã hash của độc menual?
+ 5. Sau khi được thực thi, mã độc đã tải về một tệp mã độc khác, hãy trả lời url được sử dụng để tải về.?
+ 6. Mã hash của độc menual?
 
 
